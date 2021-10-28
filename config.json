@@ -1,19 +1,13 @@
 {
-  "base_url": "https://wutali-nextjs-netlify-blog.netlify.app",
-  "site_title": "Next.js Netlify Blog",
-  "site_description": "Next.js blog template for Netlify",
+  "base_url": "https://open-source-literature.org",
+  "site_title": "Open Source Literature",
+  "site_description": "Let's design the future together!",
   "site_keywords": [
-    {
-      "keyword": "Next.js"
-    },
-    {
-      "keyword": "Netlify"
-    },
-    {
-      "keyword": "React"
-    }
+    "Open Source",
+    "Literature",
+    "Collaboration"
   ],
   "posts_per_page": 5,
-  "twitter_account": "@my-account",
-  "github_account": "wutali"
+  "twitter_account": "vasilyyaremchuk",
+  "github_account": "vasilyyaremchuk"
 }
