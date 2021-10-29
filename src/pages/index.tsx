@@ -16,7 +16,10 @@ export default function Index() {
           <h1>
             {config.site_title}
           </h1>
-          <h2>{config.site_description}.</h2>
+          <h2>{config.site_description}</h2>
+          <div>
+            {config.frontpage_body}
+          </div>
           <SocialList />
         </div>
       </div>

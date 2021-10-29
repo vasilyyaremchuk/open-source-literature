@@ -2,6 +2,7 @@
   "base_url": "https://open-source-literature.org",
   "site_title": "Open Source Literature",
   "site_description": "Let's design the future together!",
+  "frontpage_body": "",
   "site_keywords": [],
   "posts_per_page": 5,
   "twitter_account": "vasilyyaremchuk",
