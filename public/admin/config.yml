@@ -29,7 +29,7 @@ collections:
             widget: "string"
           - label: "Front page body"
             name: "frontpage_body"
-            widget: "text"
+            widget: "markdown"
           - label: "Site keywords"
             name: "site_keywords"
             widget: "list"

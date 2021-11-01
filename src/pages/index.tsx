@@ -17,7 +17,7 @@ export default function Index() {
             {config.site_title}
           </h1>
           <h2>{config.site_description}</h2>
-          <div>
+          <div className="body">
             {config.frontpage_body}
           </div>
           <SocialList />
@@ -40,6 +40,9 @@ export default function Index() {
           font-size: 1.75rem;
           font-weight: 400;
           line-height: 1.25;
+        }
+        .body {
+          max-width: 769px;
         }
         .fancy {
           color: #15847d;
